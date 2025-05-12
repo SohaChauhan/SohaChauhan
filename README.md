@@ -1,5 +1,5 @@
 # 💫 About Me:
--🔭 Currently pursuing B.Tech. in CSE with a minor in Accounting & Finance<br>- 🌱 Continuously learning and growing in Full Stack Development, Machine Learning, and Cloud Technologies<br>- 💬 Ask me about Next.js, React.js, MongoDB or anything related to Full Stack Web Development<br>- ✨ Fun Fact: I love creating elegant UIs and solving real-world problems through code
+-🔭  Currently pursuing B.Tech. in CSE with a minor in Accounting & Finance<br>-🌱 Continuously learning and growing in Full Stack Development, Machine Learning, and Cloud Technologies<br>-💬 Ask me about Next.js, React.js, MongoDB or anything related to Full Stack Web Development<br>-✨ Fun Fact: I love creating elegant UIs and solving real-world problems through code
 
 
 ## 🌐 Socials:
