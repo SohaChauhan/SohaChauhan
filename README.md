@@ -69,7 +69,7 @@
         <a href="https://github.com/SohaChauhan/expense-tracker-app" target="_blank">
           <img src="https://img.shields.io/badge/Code-141414?style=for-the-badge&logo=github&logoColor=white">
         </a>
-        <a href="[[link-to-live-demo]](https://spenza.vercel.app)" target="_blank">
+        <a href="https://spenza.vercel.app" target="_blank">
           <img src="https://img.shields.io/badge/Live_Demo-007BFF?style=for-the-badge&logo=google-chrome&logoColor=white">
         </a>
       </p>
